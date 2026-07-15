@@ -10,10 +10,7 @@
     <link rel="shortcut icon" href='feather.png'/>
     
 </head>
-<main class="prop">
-    <audio src="AUDIO_ANOTHERHIM.ogg">
-    <p>Если вы видите это, ваш браузер не поддерживает тег audio.</p>
-    </audio>    
+<main class="prop"> 
         <MYSTERY_MAN>
         <div class="shake" style=""><div class="typing-text" style="animation-delay: 7s">G R E E T I N G S .</div></div> 
         <br>
